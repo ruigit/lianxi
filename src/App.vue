@@ -23,8 +23,8 @@
 <script>
 import HelloWorld from './components/HelloWorld'
 import slideShow from './components/slideShow'
-import Hello from './pages/hello'
-import About from './pages/about'
+// import Hello from './pages/hello'
+// import About from './pages/about'
 
 export default {
   name: 'app',
@@ -57,8 +57,8 @@ export default {
   components: {
     HelloWorld,
     slideShow,
-    Hello,
-    About
+    // Hello,
+    // About
   }
 }
 </script>
